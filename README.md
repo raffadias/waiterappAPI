@@ -7,7 +7,7 @@ no banco de dados.
 
 Para instalar o Waiterapp API, siga estas etapas:
 </br>
-Tenha uma instancia do mongoDB instalada em sua máquina ou rodando em um container.
+Tenha uma instância do mongoDB instalada em sua máquina ou rodando em um container.
 </br>
 </br>
 Para instalar as dependências:
